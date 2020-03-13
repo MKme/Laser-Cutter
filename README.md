@@ -20,7 +20,9 @@ Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>
 TBD
 
 ### BUY THE K40 HERE:
-xxxx tbd
+Amazon: https://amzn.to/3aNWrWk
+Excact same model: https://amzn.to/2QeDuEx
+eBay (the one I bought shipped to Canada) https://www.ebay.ca/itm/Upgraded-40W-CO2-Laser-Engraver-Cutting-Machine-Crafts-Cutter-USB-Interface/183792448203?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649
 
 
 Export from Inkscape to Cut/Engrave:
