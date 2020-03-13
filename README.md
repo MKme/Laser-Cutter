@@ -26,6 +26,9 @@ Excact same model: https://amzn.to/2QeDuEx
 
 eBay (the one I bought shipped to Canada) https://www.ebay.ca/itm/Upgraded-40W-CO2-Laser-Engraver-Cutting-Machine-Crafts-Cutter-USB-Interface/183792448203?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649
 
+### Awesome box maker site: 
+https://en.makercase.com/#/
+Demo of it: https://www.youtube.com/watch?v=g9_dl2OKkaQ 
 
 ## Export from Inkscape to Cut/Engrave:
 
