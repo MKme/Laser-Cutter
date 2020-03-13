@@ -1,7 +1,6 @@
 # Laser-Cutter
 
 
-
 <p align="center">
 <b>K40 Laser Cutter reference files tips and tricks I find along the way</b><br>
 <br>
@@ -14,8 +13,9 @@ Learning all about my K40 laser cutter
 
 Support this project and become a patron on <a href="http://mkme.org/patreon">Eric's Patreon</a>.<br>
 Website, Forum and store are at http://mkme.org <br>
-Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
+Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>
 </p>
+
 ### Full Video Tutorial here:
 TBD
 
