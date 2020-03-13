@@ -4,7 +4,7 @@
 <p align="center">
 <b>K40 Laser Cutter reference files tips and tricks I find along the way</b><br>
 <br>
-<p align="center"><img src="https://github.com/MKme/Laser-Cutter/blob/master/Images/Whisperer-Corners%20move%20laser%20to%20each%20corner%20of%20image%20then%20back.PNG"/>
+<p align="center"><img src="https://github.com/MKme/Laser-Cutter/blob/master/Images/k40-mkmeorg.jpg"/>
 Learning all about my K40 laser cutter
   <br>
 <br>🐦 <a href="https://twitter.com/mkmeorg">Twitter</a>
