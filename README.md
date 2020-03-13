@@ -13,5 +13,7 @@ Stroke paint
 Slide red slider all the way right (for cut)  Blue for Vector Engrave
 Line width does not matter in K40 Whisperer
 
+K40 Whisperer Overview: https://www.youtube.com/watch?v=PEUJQFAEDcE
+-Note- corner buttons move head to respective corner location for your imported SVG- then back again
 
 
