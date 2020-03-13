@@ -19,6 +19,9 @@ Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 ### Full Video Tutorial here:
 TBD
 
+### BUY THE K40 HERE:
+xxxx tbd
+
 
 Export from Inkscape to Cut/Engrave:
 Video Tutorial: https://www.youtube.com/watch?v=9wYvbenigtk
