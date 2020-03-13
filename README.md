@@ -21,19 +21,29 @@ TBD
 
 ### BUY THE K40 HERE:
 Amazon: https://amzn.to/3aNWrWk
+
 Excact same model: https://amzn.to/2QeDuEx
+
 eBay (the one I bought shipped to Canada) https://www.ebay.ca/itm/Upgraded-40W-CO2-Laser-Engraver-Cutting-Machine-Crafts-Cutter-USB-Interface/183792448203?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649
 
 
-Export from Inkscape to Cut/Engrave:
+## Export from Inkscape to Cut/Engrave:
+
 Video Tutorial: https://www.youtube.com/watch?v=9wYvbenigtk
+
 Select design
+
 Object
+
 Fill and stroke
+
 Stroke paint
+
 Slide red slider all the way right (for cut)  Blue for Vector Engrave
+
 Line width does not matter in K40 Whisperer
 
 K40 Whisperer Overview: https://www.youtube.com/watch?v=PEUJQFAEDcE
+
 -Note- corner buttons move head to respective corner location for your imported SVG- then back again
 <p align="center"><img src="https://github.com/MKme/Laser-Cutter/blob/master/Images/Whisperer-Corners%20move%20laser%20to%20each%20corner%20of%20image%20then%20back.PNG"/></p>
