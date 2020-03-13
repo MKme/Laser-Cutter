@@ -3,8 +3,7 @@
 
 <p align="center">
 <b>K40 Laser Cutter reference files tips and tricks I find along the way</b><br>
-<br>
-<br>
+
 <p align="center"><img src="https://github.com/MKme/Laser-Cutter/blob/master/Images/k40-mkmeorg.jpg"/>
 My K40 Budget 40 Watt Laser Cutter
   <br>
