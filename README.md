@@ -4,10 +4,9 @@
 <p align="center">
 <b>K40 Laser Cutter reference files tips and tricks I find along the way</b><br>
 <br>
-This is my K40 ultra cheap laser cutter: 
 <br>
 <p align="center"><img src="https://github.com/MKme/Laser-Cutter/blob/master/Images/k40-mkmeorg.jpg"/>
-Learning all about my K40 laser cutter
+My K40 Budget 40 Watt Laser Cutter
   <br>
 <br>🐦 <a href="https://twitter.com/mkmeorg">Twitter</a>
 | 📺 <a href="https://www.youtube.com/mkmeorg">YouTube</a>
