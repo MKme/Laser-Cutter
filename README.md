@@ -15,7 +15,4 @@ Line width does not matter in K40 Whisperer
 
 K40 Whisperer Overview: https://www.youtube.com/watch?v=PEUJQFAEDcE
 -Note- corner buttons move head to respective corner location for your imported SVG- then back again
-
-https://github.com/MKme/Laser-Cutter/blob/master/Images/Whisperer-Corners%20move%20laser%20to%20each%20corner%20of%20image%20then%20back.PNG
-
 <p align="center"><img src="https://github.com/MKme/Laser-Cutter/blob/master/Images/Whisperer-Corners%20move%20laser%20to%20each%20corner%20of%20image%20then%20back.PNG"/></p>
