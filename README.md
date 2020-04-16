@@ -16,8 +16,10 @@ Website, Forum and store are at http://mkme.org <br>
 Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>
 </p>
 
-### Full Video Tutorial here soon:
-http://youtube.com/mkmeorg
+### Full Video Tutorial here:
+https://www.youtube.com/watch?v=09NCmW545GQ
+
+Unedited FULL mods video on my secondary channel here: https://www.youtube.com/watch?v=FVKLRsFHzNw
 
 ### BUY THE K40 HERE:
 Amazon: https://amzn.to/3aNWrWk
@@ -40,6 +42,7 @@ Wood I use: https://amzn.to/3bfPQEX
 
 ### Awesome box maker site: 
 https://en.makercase.com/#/
+
 Demo of it: https://www.youtube.com/watch?v=g9_dl2OKkaQ 
 
 ## Export from Inkscape to Cut/Engrave:
