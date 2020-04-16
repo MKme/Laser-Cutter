@@ -26,6 +26,18 @@ Excact same model: https://amzn.to/2QeDuEx
 
 eBay (the one I bought shipped to Canada) https://www.ebay.ca/itm/Upgraded-40W-CO2-Laser-Engraver-Cutting-Machine-Crafts-Cutter-USB-Interface/183792448203?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649
 
+### Air Assist Parts
+
+Regulator: https://amzn.to/2VyB3P9
+
+Air Hose https://amzn.to/2wKxexT
+
+Drag Chain https://amzn.to/2KdnmQa
+
+Aiming Laser https://amzn.to/3aaiPbL
+
+Wood I use: https://amzn.to/3bfPQEX
+
 ### Awesome box maker site: 
 https://en.makercase.com/#/
 Demo of it: https://www.youtube.com/watch?v=g9_dl2OKkaQ 
