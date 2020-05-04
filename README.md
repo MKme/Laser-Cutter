@@ -67,3 +67,34 @@ How to cut PCB perf to make boards: https://youtu.be/e0ZzR-nFH4Y?t=494
 
 -Note- corner buttons move head to respective corner location for your imported SVG- then back again
 <p align="center"><img src="https://github.com/MKme/Laser-Cutter/blob/master/Images/Whisperer-Corners%20move%20laser%20to%20each%20corner%20of%20image%20then%20back.PNG"/></p>
+
+## Gasket Making
+
+Take clear picture directly above gasket and import
+
+Path>Trace bitmap> pick edge detection and tune
+
+Options>suppress speckles (I had to use 500)
+
+Click OK
+
+Do any circles/cutouts
+
+
+Instruction for resize to follow :  https://graphicdesign.stackexchange.com/questions/85077/how-do-i-resize-an-object-in-inkscape-to-an-absolute-sizeResize:
+
+Select all >Object >Clip>Set 
+
+Make rectangle around everyything and size it in the top bar (constrain by lock symbol)
+
+Select all 
+
+Uncheck fill if used
+
+Select stroke instead
+
+Size as needed
+
+Save
+
+
