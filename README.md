@@ -26,7 +26,7 @@ Amazon: https://amzn.to/3aNWrWk
 
 Excact same model: https://amzn.to/2QeDuEx
 
-eBay (the one I bought shipped to Canada) https://www.ebay.ca/itm/Upgraded-40W-CO2-Laser-Engraver-Cutting-Machine-Crafts-Cutter-USB-Interface/183792448203?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649
+eBay (the one I bought shipped to Canada)http://ebay.us/CuD5Lm  http://ebay.us/NuIiGn
 
 ### Air Assist Parts
 
