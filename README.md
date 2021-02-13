@@ -26,7 +26,11 @@ Amazon: https://amzn.to/3aNWrWk
 
 Excact same model: https://amzn.to/2QeDuEx
 
-eBay (the one I bought shipped to Canada)http://ebay.us/CuD5Lm  http://ebay.us/NuIiGn
+eBay (the one I bought shipped to Canada)http://ebay.us/CuD5Lm 
+
+and
+
+http://ebay.us/NuIiGn
 
 ### Air Assist Parts
 
