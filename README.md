@@ -32,7 +32,7 @@ and
 
 http://ebay.us/NuIiGn
 
-### Air Assist Parts
+### Upgrade Parts
 
 Regulator: https://amzn.to/2VyB3P9
 
@@ -43,6 +43,21 @@ Drag Chain https://amzn.to/2KdnmQa
 Aiming Laser https://amzn.to/3aaiPbL
 
 Wood I use: https://amzn.to/3bfPQEX
+
+Flow/Temp meter https://www.banggood.com/custlink/vGvRmZnHQk
+
+Screw Mounted Analog AC 0-50MA Scale Range Milliamp Panel Meter  https://amzn.to/328tQJj
+
+4" x 4" 100mm Stainless Steel Lab Jack Scissor Stand Platform  https://amzn.to/2OL3uKh
+
+7.87X11.81inch Honeycomb Table https://amzn.to/3tkHhSg
+
+Tetra aquarium heater https://amzn.to/3sgcQuY
+
+Crimp terminals: https://amzn.to/32aFl2P
+
+Hole Saw Kit https://amzn.to/3slzaUo
+
 
 ### Awesome box maker site: 
 https://en.makercase.com/#/
