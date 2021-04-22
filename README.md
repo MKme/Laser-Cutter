@@ -16,8 +16,12 @@ Website, Forum and store are at http://mkme.org <br>
 Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>
 </p>
 
-### Full Video Tutorial here:
-https://www.youtube.com/watch?v=09NCmW545GQ
+### Full Video Tutorials here:
+
+Part 1:  https://www.youtube.com/watch?v=09NCmW545GQ
+
+Part 2:  https://www.youtube.com/watch?v=LWlT0pTP9GQ&ab_channel=MKmeLab
+
 
 Unedited FULL mods video on my secondary channel here: https://www.youtube.com/watch?v=FVKLRsFHzNw
 
