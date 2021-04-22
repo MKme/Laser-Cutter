@@ -91,7 +91,9 @@ How to cut PCB perf to make boards: https://youtu.be/e0ZzR-nFH4Y?t=494
 -Note- corner buttons move head to respective corner location for your imported SVG- then back again
 <p align="center"><img src="https://github.com/MKme/Laser-Cutter/blob/master/Images/Whisperer-Corners%20move%20laser%20to%20each%20corner%20of%20image%20then%20back.PNG"/></p>
 
-## Gasket Making
+## Gasket Making https://www.youtube.com/watch?v=cHzhOCS8cfI&ab_channel=MKmeLab
+
+Full instructional video! https://www.youtube.com/watch?v=cHzhOCS8cfI&ab_channel=MKmeLab 
 
 Take clear picture directly above gasket and import
 
