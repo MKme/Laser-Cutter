@@ -62,6 +62,13 @@ Crimp terminals: https://amzn.to/32aFl2P
 
 Hole Saw Kit https://amzn.to/3slzaUo
 
+### My speeds & Power
+
+- Acrylic Cut 50% 5mm/s
+- 3mm Plwood Cut 60% 3mm/s
+- Raster 11% 100mm/s 
+
+These %'s wont mean anythign to you.  I run ~18mA cutting.  
 
 ### Awesome box maker site: 
 https://en.makercase.com/#/
