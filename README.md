@@ -24,6 +24,11 @@ Part 2:  https://www.youtube.com/watch?v=LWlT0pTP9GQ&ab_channel=MKmeLab
 
 Unedited FULL mods video on my secondary channel here: https://www.youtube.com/watch?v=FVKLRsFHzNw
 
+Making aluminum business cards (more info below) https://www.youtube.com/watch?v=g9tuA0RBPQQ
+
+Cutting gaskets on the K40 (more info below) https://www.youtube.com/watch?v=cHzhOCS8cfI&ab_channel=MKmeLab 
+
+
 My Makerspace currently with the K40 and 3018: 
 
 <img src="https://github.com/MKme/Laser-Cutter/blob/master/Images/19ABCA30-0A57-4A48-907F-0BF9B5A074FE.jpg" width="700"/>
@@ -64,6 +69,15 @@ Tetra aquarium heater https://amzn.to/3sgcQuY
 Crimp terminals: https://amzn.to/32aFl2P
 
 Hole Saw Kit https://amzn.to/3slzaUo
+
+
+### Supplies
+
+Buy aluminum business cards https://ebay.us/qxsMzO
+
+3mm Baltic Birch Plywood  https://amzn.to/3pyELrw
+
+Dollar store craft section is BEST!  
 
 ### My speeds & Power
 
@@ -132,6 +146,14 @@ Select stroke instead
 Size as needed
 
 Save
+
+## Making Aluminum Business cards 
+
+Full video: https://www.youtube.com/watch?v=g9tuA0RBPQQ
+
+Buy aluminum business cards https://ebay.us/qxsMzO
+
+
 
 ## Some fun cutting acrylic cases 
 
