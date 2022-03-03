@@ -22,11 +22,11 @@ Part 1:  https://www.youtube.com/watch?v=09NCmW545GQ
 
 Part 2:  https://www.youtube.com/watch?v=LWlT0pTP9GQ&ab_channel=MKmeLab
 
+Unedited FULL mods video on my secondary channel here: https://www.youtube.com/watch?v=FVKLRsFHzNw
+
 My Makerspace currently with the K40 and 3018: 
 
 <img src="https://github.com/MKme/Laser-Cutter/blob/master/Images/19ABCA30-0A57-4A48-907F-0BF9B5A074FE.jpg" width="700"/>
-
-Unedited FULL mods video on my secondary channel here: https://www.youtube.com/watch?v=FVKLRsFHzNw
 
 ### BUY THE K40 HERE:
 Amazon: https://amzn.to/3aNWrWk
