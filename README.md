@@ -70,6 +70,9 @@ Crimp terminals: https://amzn.to/32aFl2P
 
 Hole Saw Kit https://amzn.to/3slzaUo
 
+Rotary Attachment:
+
+252-6 Belt for rotary atachment conversion to low profile https://ebay.us/ryeY1j 
 
 ### Supplies
 
