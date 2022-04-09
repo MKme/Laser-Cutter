@@ -161,3 +161,7 @@ Buy aluminum business cards https://ebay.us/qxsMzO
 ## Some fun cutting acrylic cases 
 
 Video: https://youtu.be/wjp8ZwIsNMQ
+
+## Export a DXF outline from Fusion 360 EASY 
+
+Video https://www.youtube.com/watch?v=d9Rf9v-Paa4
